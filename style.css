@@ -29,7 +29,7 @@ html, body {
     margin: 0;
     display: block;
     border: solid 2px black;
-    height: 400px;
+    height: 80vw;
 }
 input, select {
     cursor: pointer;
